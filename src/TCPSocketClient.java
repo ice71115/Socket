@@ -65,7 +65,7 @@ public class TCPSocketClient {
                 System.out.println("Server 說  : " + receData);
             }
         }
-
+        System.out.println("結束連線...");
         client.close();
 
 

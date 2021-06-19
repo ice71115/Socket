@@ -53,7 +53,7 @@ public class TCPSocketServer {
                 if(data.equals("exit") )
                     break;
             }
-
+            System.out.println("結束連線...");
             client.close();
         }
 
