@@ -1,8 +1,10 @@
 # 簡單使用JAVA 實現Socket連線
 
-TCPSocketServer 為Server端 參數:server port
+TCPSocketServer 為Server端 
+參數:server port
 
-TCPSocketClient 為Client端 參數:server ip , server port
+TCPSocketClient 為Client端 
+參數:server ip , server port
 
 # 用途
 
